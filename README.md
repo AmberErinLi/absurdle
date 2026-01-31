@@ -47,9 +47,19 @@ This project demonstrates worst-case reasoning, pattern generation, and adversar
 
 ## Notes
 
-* The dictionary is intentionally small for clarity and testing
 * All feedback follows standard Wordle rules
 * The manager never lies—it simply chooses the least helpful valid response
+
+---
+
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AmberErinLi/absurdle
+2. Open in Visual Studio Code (or your preferred IDE) and ensure the src/ folder is recognized as the source directory.
+3. Run the main() method in Absurdle.java. You will be prompted to enter a dictionary name and the word length you would like to guess.
+4. Continue guessing words until you reach the correct answer.
 
 ---
 
